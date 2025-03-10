@@ -1,0 +1,149 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dE:/Verilog_Practice/Verilog_geish/questa_prj/tb_bf2_FFT_V0
+T_opt
+!s110 1741546724
+VRSgl@1mKbkX@?:2:CU[jW0
+04 13 4 work tb_FFT_3stage fast 0
+=1-70b5e8aef06b-67cde4e3-355-59ec
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+R1
+vBF1
+Z3 !s110 1741546958
+!i10b 1
+!s100 zhb;:=ndl92B<d;U>UT600
+ImA^3zlNe`ci8aCaaZ6ZiV3
+Z4 dE:/Verilog_Practice/Verilog_geish/questa_prj/tb_FFT_3stage
+w1741475602
+8E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF1.v
+FE:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF1.v
+!i122 104
+L0 6 25
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1741546958.000000
+!s107 E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF1.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@b@f1
+vBF2
+R3
+!i10b 1
+!s100 8<61GM455BV@cChCYA05l2
+IUP_R2T8dJHjUUzblXYbR81
+R4
+w1741475621
+8E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF2.v
+FE:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF2.v
+!i122 105
+L0 7 57
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF2.v|
+!i113 0
+R8
+R2
+n@b@f2
+vBF4
+Z9 !s110 1741546959
+!i10b 1
+!s100 nUQAKzhYX^CRRK9Bj^iM^0
+Iflc7=DcEbD^ON`R9f4>=L3
+R4
+w1741546657
+8E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF4.v
+FE:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF4.v
+!i122 106
+L0 7 98
+R5
+R6
+r1
+!s85 0
+31
+Z10 !s108 1741546959.000000
+!s107 E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF4.v|
+!i113 0
+R8
+R2
+n@b@f4
+vFFT_3stage
+R9
+!i10b 1
+!s100 dcIh:mmiKNF3Vboeo@Bn30
+IDBh2:8F`zV@k307P80igh0
+R4
+w1741484629
+8E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_3stage.v
+FE:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_3stage.v
+!i122 107
+L0 8 106
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_3stage.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_3stage.v|
+!i113 0
+R8
+R2
+n@f@f@t_3stage
+vtb_FFT_3stage
+R9
+!i10b 1
+!s100 C2Z0MLZGU[T3gZ[jeAaoo0
+IQ6mGUMOCFM_YH0CR:EH?l3
+R4
+w1741486978
+8E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/tb_FFT_3stage.v
+FE:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/tb_FFT_3stage.v
+!i122 108
+L0 6 107
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/tb_FFT_3stage.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/tb_FFT_3stage.v|
+!i113 0
+R8
+R2
+ntb_@f@f@t_3stage

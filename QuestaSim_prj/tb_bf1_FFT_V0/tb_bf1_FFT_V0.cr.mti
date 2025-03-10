@@ -1,0 +1,15 @@
+E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF1.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF1.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module BF1
+
+Top level modules:
+	BF1
+
+} {} {}} E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/tb_bf1.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/tb_bf1.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tb_bf1
+
+Top level modules:
+	tb_bf1
+
+} {} {}}
