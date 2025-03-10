@@ -1,0 +1,64 @@
+E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF1.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF1.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module BF1
+
+Top level modules:
+	BF1
+
+} {} {}} E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/s2p.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/s2p.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module s2p
+
+Top level modules:
+	s2p
+
+} {} {}} E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_top.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_top.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FFT_top
+
+Top level modules:
+	FFT_top
+
+} {} {}} E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF2.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF2.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module BF2
+
+Top level modules:
+	BF2
+
+} {} {}} E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_3stage.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_3stage.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FFT_3stage
+
+Top level modules:
+	FFT_3stage
+
+} {} {}} E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_xn_ROM.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_xn_ROM.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FFT_xn_ROM
+
+Top level modules:
+	FFT_xn_ROM
+
+} {} {}} E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_datapath.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_datapath.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FFT_datapath
+
+Top level modules:
+	FFT_datapath
+
+} {} {}} E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/tb_FFT_top.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/tb_FFT_top.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tb_FFT_top
+
+Top level modules:
+	tb_FFT_top
+
+} {} {}} E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF4.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/BF4.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module BF4
+
+Top level modules:
+	BF4
+
+} {} {}}

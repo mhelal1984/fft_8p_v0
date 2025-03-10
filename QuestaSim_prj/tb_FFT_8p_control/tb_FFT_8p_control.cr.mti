@@ -1,0 +1,15 @@
+E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_8p_control.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/FFT_8p_control.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FFT_8p_control
+
+Top level modules:
+	FFT_8p_control
+
+} {} {}} E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/tb_FFT_8p_control.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/FFT/fft_8p_v0/tb_FFT_8p_control.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tb_FFT_8p_control
+
+Top level modules:
+	tb_FFT_8p_control
+
+} {} {}}
