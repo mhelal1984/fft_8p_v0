@@ -2,6 +2,9 @@
 
 ## Overview
 This repository contains a Verilog implementation of an 8-point Fast Fourier Transform (FFT) system. The design includes a datapath, control unit, and testbench for verification.
+<p align="center">
+  <img src="docs/ezgif-52f079d18f6497.gif" style="max-width: 50%; height: auto;">
+</p>
 
 ## Project Structure
 The project consists of the following modules:
