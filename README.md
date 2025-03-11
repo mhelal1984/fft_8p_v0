@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains a Verilog implementation of an 8-point Fast Fourier Transform (FFT) system. The design includes a datapath, control unit, and testbench for verification.
+
 <p align="center">
   <img src="docs/ezgif-52f079d18f6497.gif" style="max-width: 50%; height: auto;">
 </p>
@@ -24,11 +25,38 @@ The project consists of the following modules:
 ### Testbench:
 - **tb_FFT_top.v**: Testbench for validating the FFT implementation.
 
+## Octave Scripts
+The following scripts are included in `octave_scripts/` for testing, verification, and generating required data for the Verilog implementation:
+
+- **FFT_8p_bf_3stage_v0.m**  
+  Implements an 8-point FFT using a three-stage butterfly structure for verification. It compares the computed results with MATLAB’s `fft()` function and generates test vectors.
+
+- **FFT_tstvec_gen_f_verilog_fft8p.m**  
+  Generates random test vectors, computes their FFT, and stores the results in files (`FFT_oct_res_real.txt` and `FFT_oct_res_imag.txt`) for Verilog verification.
+
+- **randomNumbers.m**  
+  Function to generate N random numbers in the range [-5000, 5000], excluding values between [-100, 100], used for generating diverse test signals.
+
+- **twid_hex.m**  
+  Computes the twiddle factors for an 8-point FFT, scales them by \(2^{15}\), and outputs them as signed 16-bit hexadecimal numbers.
+
+- **twidtobinfraction.m**  
+  Converts twiddle factors into binary fractional representation with a user-defined precision (default: 12 bits).
+
+- **testvecROM.txt**  
+  Stores the generated test vectors in hexadecimal format, which are used as FFT inputs.
+
+- **FFT_oct_res_real.txt**  
+  Stores the real part of the FFT results in hexadecimal format.
+
+- **FFT_oct_res_imag.txt**  
+  Stores the imaginary part of the FFT results in hexadecimal format.
+
 ## Features
 - Fully implemented in Verilog.
 - Supports 8-point FFT computation.
 - Uses a pipelined architecture for efficient processing.
-- Testbench included for verification with preloaded test vectors.
+- Includes Octave scripts for testing and vector generation.
 - Designed for FPGA and ASIC synthesis.
 
 ## Simulation and Testing
@@ -49,4 +77,3 @@ Date Created: March 9, 2025
 
 ## License
 This project is released under the MIT License. Feel free to use and modify it as needed.
-
